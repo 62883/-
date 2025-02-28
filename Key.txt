@@ -1,2 +1,1 @@
---La key se restablece a las 11AM todos los dias.
-Key: 796541837297153
+796541837297153
