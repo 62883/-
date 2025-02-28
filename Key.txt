@@ -1,1 +1,2 @@
-526171552
+--La key se restablece a las 11AM todos los dias.
+Key: 796541837297153
